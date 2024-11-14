@@ -1,0 +1,8 @@
+FundMeTest:testFunderDataStrucrureUpdate() (gas: 109136)
+FundMeTest:testFundersDataArrayUpdate() (gas: 109228)
+FundMeTest:testNotUpToMinimumUsd() (gas: 25236)
+FundMeTest:testOnlyOwnerCanWithdraw() (gas: 103039)
+FundMeTest:testVersion() (gas: 19445)
+FundMeTest:testWitdraw() (gas: 90100)
+interactionsTest:testUserCanFundInteraction() (gas: 1134964)
+interactionsTest:testUserCanWithdrawInteraction() (gas: 1042175)
